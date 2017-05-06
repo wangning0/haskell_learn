@@ -1,0 +1,4 @@
+-- :t 'a'
+-- :t True 
+-- :t "HELLO"
+-- :t (True, 'a')
